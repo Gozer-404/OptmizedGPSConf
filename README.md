@@ -28,7 +28,7 @@ The default file found in most ROMs is very wrong and has a lot of bad informati
 ## Instructions
 __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
-0. [Download](https://github.com/skyrocketingHong/OptmizedGPSConf/releases/latest/download/OptmizedGPSConf.zip)
+0. [Download](https://github.com/Gozer-404/OptmizedGPSConf/releases/latest/download/OptmizedGPSConf.zip)
 1. Go to Magisk Manager **_Modules_** section.
 2. Click on **_+_** yellow button and search/find for this **_"optimizedgpsconf.zip"_** file and long press on it.
 3. Select open and after installed then reboot your device.
@@ -40,8 +40,9 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 ## Changelog
 
 #### Version 6.0
-- Modified gps.conf with European servers
+- Modified gps.conf with European servers! 
 - Update README.md
+- Add [release package](https://github.com/Gozer-404/OptmizedGPSConf/releases/latest/download/OptmizedGPSConf.zip)
 
 #### Version 5.0
 - Use gps.conf from Xiaomi 14 Ultra (HyperOS 1.0.8.0.UNACNXM)
